@@ -1,0 +1,1 @@
+# Guia_Inicial_De_Linux
