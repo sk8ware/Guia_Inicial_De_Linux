@@ -3,47 +3,33 @@
 En esta sección se cubren diversos aspectos relacionados con el sistema operativo Linux.
 
 ---
+## 1. Plataformas de Sistemas Operativos para Pentesting
+## 2. Introducción a Comandos Básicos de Linux
 
-## N°1 Actualización y Mejora del Sistema
+## 3. Gestión del Flujo stderr-stdout, Operadores y Procesos en Segundo Plano
 
-## N°2 Gestión de Permisos
+## 4. Fundamentos de Descriptores de Archivo
 
-## N°3 Búsquedas en el Sistema
+## 5. Interpretación y Lectura de Permisos
 
-## N°4 Comandos Básicos de Linux
+## 6. Configuración de Permisos en Sistemas Linux
 
-## N°5 Control de Atributos de Archivos en Linux
+## 7. Notación Octal para Configuración de Permisos
 
-- Chattr y Lsattr
+## 8. Permisos Especiales: Configuración del Sticky Bit
 
-## N°6 Manejo de Flujo de Datos y Procesos
+## 9. Gestión de Atributos de Archivos en Linux: Chattr y Lsattr
 
-- stderr-stdout, operadores y procesos en segundo plano
+## 10. Permisos Especiales - SUID y SGID
 
-## N°7 Cuestionario
+## 11. Privilegios Especiales: Capabilities en Linux
 
-## N°8 Descriptores de Archivos
+## 12. Estructura de Directorios en Sistemas Linux
 
-## N°9 Estructura de Directorios del Sistema
+## 13. Configuración y Uso de bashrc y zshrc
 
-## N°10 Lectura e Interpretación de Permisos
+## 14. Actualización del Sistema en Linux
 
-## N°11 Notación Octal de Permisos
+## 15. Uso y Gestión de Tmux en Linux
 
-## N°12 Permisos Especiales
-
-- SUID y SGID
-
-## N°13 Permisos Especiales
-
-- Sticky Bit
-
-## N°14 Privilegios Especiales
-
-- Capacidades
-
-## N°15 Sistemas Operativos para Pentesting
-
-## N°16 Configuración de bashrc y zshrc
-
-## N°17 Uso y Manejo de Tmux
+## 16. Búsquedas a Nivel del Sistema en Linux
