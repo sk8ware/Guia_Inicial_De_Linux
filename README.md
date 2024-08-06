@@ -33,3 +33,5 @@ En esta sección se cubren diversos aspectos relacionados con el sistema operati
 ## 15. Uso y Gestión de Tmux en Linux
 
 ## 16. Búsquedas a Nivel del Sistema en Linux
+
+## 17. Desarrollo de Scripts en Bash
