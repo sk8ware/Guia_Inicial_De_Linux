@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia inicial de Linux/16. Búsquedas a Nivel del Sistema en Linux.md",
+                "file": "Guia inicial de Linux/17. Desarrollo de Scripts en Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2671d3493c149544",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guia inicial de Linux/16. Búsquedas a Nivel del Sistema en Linux.md",
+                "file": "Guia inicial de Linux/17. Desarrollo de Scripts en Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guia inicial de Linux/16. Búsquedas a Nivel del Sistema en Linux.md",
+                "file": "Guia inicial de Linux/17. Desarrollo de Scripts en Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guia inicial de Linux/16. Búsquedas a Nivel del Sistema en Linux.md"
+                "file": "Guia inicial de Linux/17. Desarrollo de Scripts en Bash.md"
               }
             }
           }
@@ -149,6 +150,9 @@
   },
   "active": "a8213bef4ff41dbe",
   "lastOpenFiles": [
+    "README.md",
+    "Guia inicial de Linux/17. Desarrollo de Scripts en Bash.md",
+    "Guia inicial de Linux/16. Búsquedas a Nivel del Sistema en Linux.md",
     "Guia inicial de Linux/15. Uso y Gestión de Tmux en Linux.md",
     "Guia inicial de Linux/14. Actualización del Sistema en Linux.md",
     "Guia inicial de Linux/13. Configuración y Uso de bashrc y zshrc.md",
@@ -164,8 +168,6 @@
     "Guia inicial de Linux/3. Gestión del Flujo stderr-stdout, Operadores y Procesos en Segundo Plano.md",
     "Guia inicial de Linux/2. Introducción a Comandos Básicos de Linux.md",
     "Guia inicial de Linux/1. Plataformas de Sistemas Operativos para Pentesting.md",
-    "README.md",
-    "Guia inicial de Linux/16. Búsquedas a Nivel del Sistema en Linux.md",
     "Guia inicial de Linux"
   ]
 }
