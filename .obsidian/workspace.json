@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/Estableciendo conexiones SSH.md",
+                "file": "Guia inicial de Linux/OverTheWire-Linux/Lectura de archivos especiales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/Estableciendo conexiones SSH.md",
+                "file": "Guia inicial de Linux/OverTheWire-Linux/Lectura de archivos especiales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/Estableciendo conexiones SSH.md",
+                "file": "Guia inicial de Linux/OverTheWire-Linux/Lectura de archivos especiales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/Estableciendo conexiones SSH.md"
+                "file": "Guia inicial de Linux/OverTheWire-Linux/Lectura de archivos especiales.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "a8213bef4ff41dbe",
   "lastOpenFiles": [
-    "README.md",
     "Guia inicial de Linux/OverTheWire-Linux/Estableciendo conexiones SSH.md",
+    "Guia inicial de Linux/OverTheWire-Linux/Lectura de archivos especiales.md",
+    "Guia inicial de Linux/18. Configuración y uso de Kitty.md",
+    "README.md",
     "Guia inicial de Linux/19. Introducción al editor Vim.md",
     "Guia inicial de Linux/OverTheWire-Linux",
     "Guia inicial de Linux/Sin título.md",
-    "Guia inicial de Linux/18. Configuración y uso de Kitty.md",
     "Guia inicial de Linux/17. Desarrollo de Scripts en Bash.md",
     "Guia inicial de Linux/16. Búsquedas a Nivel del Sistema en Linux.md",
     "Guia inicial de Linux/15. Uso y Gestión de Tmux en Linux.md",
