@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/30. Codificación y decodificación en Base64.md",
+                "file": "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/30. Codificación y decodificación en Base64.md",
+                "file": "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/30. Codificación y decodificación en Base64.md",
+                "file": "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/30. Codificación y decodificación en Base64.md"
+                "file": "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md"
               }
             }
           }
@@ -147,24 +147,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a8213bef4ff41dbe",
+  "active": "e5d02ae547391d47",
   "lastOpenFiles": [
-    "Guia inicial de Linux/OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
-    "Guia inicial de Linux/OverTheWire-Linux/30. Codificación y decodificación en Base64.md",
+    "OverTheWire-Linux/30. Codificación y decodificación en Base64.md",
+    "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
     "README.md",
-    "Guia inicial de Linux/OverTheWire-Linux/29. Interpretación de archivos binarios.md",
-    "Guia inicial de Linux/OverTheWire-Linux/28. Técnicas de filtrado de datos Parte 2.md",
-    "Guia inicial de Linux/OverTheWire-Linux/27. Técnicas de filtrado de datos Parte 1.md",
-    "Guia inicial de Linux/OverTheWire-Linux/26. Búsqueda avanzada de archivos Parte 2.md",
-    "Guia inicial de Linux/OverTheWire-Linux/25. Búsqueda avanzada de archivos Parte 1.md",
-    "Guia inicial de Linux/OverTheWire-Linux/24. Identificación de tipo y formato de archivos.md",
-    "Guia inicial de Linux/OverTheWire-Linux/23. Gestión de directorios y archivos ocultos.md",
-    "Guia inicial de Linux/OverTheWire-Linux/22. Lectura de archivos especiales Parte 2.md",
-    "Guia inicial de Linux/OverTheWire-Linux/21. Lectura de archivos especiales Parte 1.md",
-    "Guia inicial de Linux/OverTheWire-Linux/20. Estableciendo conexiones SSH.md",
+    "OverTheWire-Linux/29. Interpretación de archivos binarios.md",
+    "OverTheWire-Linux/28. Técnicas de filtrado de datos Parte 2.md",
+    "OverTheWire-Linux/27. Técnicas de filtrado de datos Parte 1.md",
+    "OverTheWire-Linux/26. Búsqueda avanzada de archivos Parte 2.md",
+    "OverTheWire-Linux/25. Búsqueda avanzada de archivos Parte 1.md",
+    "OverTheWire-Linux/24. Identificación de tipo y formato de archivos.md",
+    "OverTheWire-Linux/23. Gestión de directorios y archivos ocultos.md",
+    "OverTheWire-Linux/22. Lectura de archivos especiales Parte 2.md",
+    "OverTheWire-Linux/21. Lectura de archivos especiales Parte 1.md",
+    "OverTheWire-Linux/20. Estableciendo conexiones SSH.md",
     "Guia inicial de Linux/18. Configuración y uso de Kitty.md",
     "Guia inicial de Linux/19. Introducción al editor Vim.md",
-    "Guia inicial de Linux/OverTheWire-Linux",
+    "OverTheWire-Linux",
     "Guia inicial de Linux/Sin título.md",
     "Guia inicial de Linux/17. Desarrollo de Scripts en Bash.md",
     "Guia inicial de Linux/16. Búsquedas a Nivel del Sistema en Linux.md",
