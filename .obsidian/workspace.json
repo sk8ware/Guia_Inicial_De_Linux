@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/25. Búsqueda avanzada de archivos Parte 1.md",
+                "file": "Guia inicial de Linux/OverTheWire-Linux/28. Técnicas de filtrado de datos Parte 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/25. Búsqueda avanzada de archivos Parte 1.md",
+                "file": "Guia inicial de Linux/OverTheWire-Linux/28. Técnicas de filtrado de datos Parte 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/25. Búsqueda avanzada de archivos Parte 1.md",
+                "file": "Guia inicial de Linux/OverTheWire-Linux/28. Técnicas de filtrado de datos Parte 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guia inicial de Linux/OverTheWire-Linux/25. Búsqueda avanzada de archivos Parte 1.md"
+                "file": "Guia inicial de Linux/OverTheWire-Linux/28. Técnicas de filtrado de datos Parte 2.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "a8213bef4ff41dbe",
   "lastOpenFiles": [
-    "Guia inicial de Linux/OverTheWire-Linux/24. Identificación de tipo y formato de archivos.md",
-    "Guia inicial de Linux/OverTheWire-Linux/25. Búsqueda avanzada de archivos Parte 1.md",
+    "Guia inicial de Linux/OverTheWire-Linux/27. Técnicas de filtrado de datos Parte 1.md",
+    "Guia inicial de Linux/OverTheWire-Linux/28. Técnicas de filtrado de datos Parte 2.md",
     "README.md",
+    "Guia inicial de Linux/OverTheWire-Linux/26. Búsqueda avanzada de archivos Parte 2.md",
+    "Guia inicial de Linux/OverTheWire-Linux/25. Búsqueda avanzada de archivos Parte 1.md",
+    "Guia inicial de Linux/OverTheWire-Linux/24. Identificación de tipo y formato de archivos.md",
     "Guia inicial de Linux/OverTheWire-Linux/23. Gestión de directorios y archivos ocultos.md",
     "Guia inicial de Linux/OverTheWire-Linux/22. Lectura de archivos especiales Parte 2.md",
     "Guia inicial de Linux/OverTheWire-Linux/21. Lectura de archivos especiales Parte 1.md",
@@ -173,9 +176,6 @@
     "Guia inicial de Linux/7. Notación Octal para Configuración de Permisos.md",
     "Guia inicial de Linux/6. Configuración de Permisos en Sistemas Linux.md",
     "Guia inicial de Linux/5. Interpretación y Lectura de Permisos.md",
-    "Guia inicial de Linux/4. Fundamentos de Descriptores de Archivo.md",
-    "Guia inicial de Linux/3. Gestión del Flujo stderr-stdout, Operadores y Procesos en Segundo Plano.md",
-    "Guia inicial de Linux/2. Introducción a Comandos Básicos de Linux.md",
     "Guia inicial de Linux"
   ]
 }
