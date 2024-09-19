@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
+                "file": "OverTheWire-Linux/32. Creación de descompresor recursivo automático en Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
+                "file": "OverTheWire-Linux/32. Creación de descompresor recursivo automático en Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
+                "file": "OverTheWire-Linux/32. Creación de descompresor recursivo automático en Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md"
+                "file": "OverTheWire-Linux/32. Creación de descompresor recursivo automático en Bash.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e5d02ae547391d47",
+  "active": "a8213bef4ff41dbe",
   "lastOpenFiles": [
-    "OverTheWire-Linux/30. Codificación y decodificación en Base64.md",
     "OverTheWire-Linux/31. Cifrado César y traducción de caracteres con `tr`.md",
+    "OverTheWire-Linux/32. Creación de descompresor recursivo automático en Bash.md",
     "README.md",
+    "OverTheWire-Linux/30. Codificación y decodificación en Base64.md",
     "OverTheWire-Linux/29. Interpretación de archivos binarios.md",
     "OverTheWire-Linux/28. Técnicas de filtrado de datos Parte 2.md",
     "OverTheWire-Linux/27. Técnicas de filtrado de datos Parte 1.md",
@@ -175,7 +176,6 @@
     "Guia inicial de Linux/11. Privilegios Especiales - Capabilities en Linux.md",
     "Guia inicial de Linux/10. Permisos Especiales - SUID y SGID.md",
     "Guia inicial de Linux/9. Gestión de Atributos de Archivos en Linux - Chattr y Lsattr.md",
-    "Guia inicial de Linux/8. Permisos Especiales - Configuración del Sticky Bit.md",
     "Guia inicial de Linux"
   ]
 }
